@@ -1,0 +1,8 @@
+site_name: 한글
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - 한글 자모/Korean Alphabet: alphabet.md
+    - Reading Rules: rRules.md
+    - Grammar: grammar.md
+    - Dictionary: dictionary.md
