@@ -1,7 +1,7 @@
 theme:
   name: material
 site_name: 한글
-site_url: https://example.com/
+site_url: https://hello-world-99.github.io/Korean/
 nav:
     - Home: index.md
     - 한글 자모/Korean Alphabet: alphabet.md
