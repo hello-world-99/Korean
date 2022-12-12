@@ -1,6 +1,6 @@
 theme:
   name: material
-site_name: Kor
+site_name: Korean
 site_url: https://hello-world-99.github.io/Korean/
 nav:
     - Home: index.md
