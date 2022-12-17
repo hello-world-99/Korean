@@ -10,3 +10,8 @@ nav:
         - '1': grammar.md
         - '2': grammar2.md
     - Dictionary: dictionary.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
