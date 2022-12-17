@@ -6,7 +6,7 @@ nav:
     - Home: index.md
     - 한글 자모/Korean Alphabet: alphabet.md
     - Reading Rules: rRules.md
-    - "Grammar": 
+    - 'Grammar': 
         - '1': grammar.md
         - '2': grammar2.md
     - Dictionary: dictionary.md
