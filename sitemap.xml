@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hello-world-99.github.io/Korean/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hello-world-99.github.io/Korean/alphabet/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hello-world-99.github.io/Korean/dictionary/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hello-world-99.github.io/Korean/grammar/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hello-world-99.github.io/Korean/grammar2/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hello-world-99.github.io/Korean/rRules/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
