@@ -3,4 +3,4 @@ cd my-project
 python -m mkdocs serve
 
 
-
+python -m mkdocs gh-deploy --force
