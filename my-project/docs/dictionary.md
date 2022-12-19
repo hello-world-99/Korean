@@ -93,10 +93,7 @@
 - 나라 - страна
 - 고향 - родина
 
-<figure markdown>
-![Страны](C:\Users\lev.kim\Documents\Projects\Korean\my-project\site\assets\images\favicon.png){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
+![Страны](my-project\site\assets\images\страны.jpg)
 
 | 나라 Страны ||||
 |-|-|-|-|
